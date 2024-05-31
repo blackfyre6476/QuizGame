@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BirdGame</string>
+    <string name="info">Find your way to the home, Getting 100 coins is the only way the sherrif will let you in.
+    Can you reach home safely?</string>
+</resources>
